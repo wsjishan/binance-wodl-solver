@@ -20,8 +20,8 @@ This script finds words from a dictionary file based on specified criteria such 
      - Word length: 5
      - Required letters: a,e
      - Excluded letters: b,c
-     - Position 1: h
-     - Position 3: l
+     - Position 1:h
+     - Position 3:l
 
 4. **Dictionary**:
    - Ensure a dictionary file named `dictionary.txt` is in the same directory. Each word should be on a separate line.
